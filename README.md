@@ -9,9 +9,11 @@ The differnt types of links you can add to your HTML page are
 All links are created by using the <a> element.
 
 <b>External links are made by:</b>
+
   <a href= "http://www.webpage.com">Web Page</a>
   
 <b>Internal links are made by:</b>
+
   <a href= "about.html">About Us</a>
   
 
