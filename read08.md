@@ -1,4 +1,4 @@
-##HTML Forms, CSS Data Styling, JS Events
+## HTML Forms, CSS Data Styling, JS Events
 
 Chapter 6: “Events” (pp.243-292)
 
@@ -24,7 +24,7 @@ All forms are given a name and the input from the user is sent to a server.
  With CSS styling you can make your form look how ever you want.  Table cells can have borders and spacing
  YOu can make list markres have different appearances.  Form benfit when they are styled to look more interactive.
   
- ###JS Events
+ ### JS Events
  Events are the way to let your script know something just happened in the browser.
  When an event occurs on an element it can trigger your javascript function to start running.
  Some events are
