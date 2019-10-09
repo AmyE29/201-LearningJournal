@@ -29,11 +29,12 @@ All forms are given a name and the input from the user is sent to a server.
  When an event occurs on an element it can trigger your javascript function to start running.
  Some events are
  
-   submit
-   keypress
-   mouseover
-   dblclick
-   load
+    submit
+    keypress
+    mouseover
+    dblclick
+    load
+
  
   
   
